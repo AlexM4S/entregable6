@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d2c827907406bf74f86f59730398c45a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jumpClip: {instanceID: 0}
+  - explosionClip: {fileID: 8300000, guid: 774ebc5c074ce4695b7cc310fbd44087, type: 3}
+  - explosionParticleSystem: {fileID: 19821056, guid: 079954accd64b32419ec069129c81273, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
